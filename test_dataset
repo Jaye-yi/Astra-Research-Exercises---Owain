@@ -1,0 +1,202 @@
+sentence that related to weather:
+I love the way the air smells just after it rains.
+It's a dry, arid day, not a single hint of humidity in the sky.
+A blizzard is expected to hit the northern regions tomorrow.
+The temperature has dropped to below freezing, and frost is forming on the windows.
+The fog is so thick this morning, it's hard to see the road.
+It's a hot day today; you can see heat waves rising from the ground.
+The weather forecast suggests the possibility of a thunderstorm this evening.
+A warm breeze is blowing from the sea, making it a perfect day for the beach.
+It's going to be a pretty spring day with blossoming flowers and a sunny sky.
+The hurricane is approaching fast; everyone is advised to stay indoors.
+The leaves are falling, and the air is crisp— it's definitely autumn.
+I cannot wait for summer when the days are long and hot.
+The morning dew makes everything look fresh and sparkly.
+It’s a beautiful winter day with snowflakes dancing in the cold air.
+The hailstorm arrived abruptly, catching everyone off guard.
+
+sentence that related to city:
+London is famous for its prestigious museums and iconic landmarks.
+The constant hustle and bustle of Tokyo is both exhilarating and overwhelming.
+Chicago's deep-dish pizza is a city staple that is loved by locals and tourists alike.
+The city's stunning architecture is a testament to its storied history.
+The art scene in Berlin is incredibly dynamic, reflecting the city's diverse culture.
+Paris, known as the City of Love, isn't just romantic; its rich art and history also appeal to culture seekers.
+The city's skyline is ever-changing, courtesy of the constant construction of new high-rise buildings.
+The nightlife in the city is vibrant, with numerous bars, clubs, and late-night eateries.
+San Francisco's iconic Golden Gate Bridge is a sight to behold.
+Every morning, the city wakes up to the smell of fresh bread from numerous bakeries.
+The rush hour in the city can be a nightmare, filled with honking horns, bumper-to-bumper traffic, and pedestrian hustle.
+Sydney’s futuristic cityscape is a blend of skyscrapers and lush parks.
+The city is a melting pot of different cultures and cuisines.
+The city park provides green respite amid bustling city life.
+The pedestrian-friendly streets in Copenhagen make exploring the city a delightful experience.
+
+size of test dataset: 30 
+
+
+Test 2:
+sentences related to Tarot Divination:
+The Fool's journey through the Major Arcana mirrors the stages of personal growth in Tarot.
+Tarot readers often use spreads like the Celtic Cross to explore diverse aspects of a situation.
+The Magician card embodies mastery of one's own destiny and manifestation in Tarot.
+Reversed cards add depth to a Tarot reading, indicating blocked energy or internal conflict.
+Tarot serves as a tool for introspection, helping seekers tap into their inner wisdom.
+The Pentacle suit in Tarot often relates to material aspects, including finances and career.
+The High Priestess represents intuition, mystery, and spiritual insight in Tarot symbolism.
+Tarot decks, with their unique artwork, allow readers to connect with diverse interpretations.
+The Justice card embodies fairness, balance, and karmic consequences in Tarot divination.
+The Ace of Wands signifies inspiration and the spark of new beginnings in Tarot readings.
+
+sentence related to Astrology Divination:
+Progressions in astrology offer insights into personal growth and evolving life experiences.
+Transits influence the timing of events and personal development based on celestial movements.
+The houses in an astrological chart represent different aspects of life, shaping one's journey.
+Astrologers use ephemerides and software to calculate precise planetary positions for readings.
+Mundane astrology explores the impact of celestial events on global trends and societal shifts.
+The moon's influence on emotions is a crucial aspect of astrological interpretations.
+Aspects like conjunctions and squares between planets provide additional layers to astrological insights.
+The rising sign, or ascendant, in a birth chart influences one's outward personality and first impressions.
+Progressed charts showcase symbolic advancements over time, revealing evolving potentials.
+Astrology divination offers individuals a cosmic perspective for self-awareness and decision-making.
+
+size of test dataset: 20 
+
+Test 3:
+sentences about European history:
+The Protestant Reformation initiated by Martin Luther in the 16th century triggered religious and social changes that reverberated throughout European history.
+The colonization of Africa and Asia during the Age of Exploration expanded European empires and influenced global trade dynamics.
+The rise of fascism in the early 20th century, exemplified by leaders like Hitler and Mussolini, led to significant political upheaval and the outbreak of World War II.
+The Cold War, a geopolitical struggle between the United States and the Soviet Union, divided Europe into Eastern and Western blocs, shaping the continent's politics for decades.
+The fall of the Berlin Wall in 1989 symbolized the end of the Cold War and paved the way for the reunification of East and West Germany, altering the geopolitical landscape of Europe.
+The Roman Republic's expansion across the Mediterranean and its eventual transformation into the Roman Empire significantly impacted ancient European history.
+The Celts, a diverse group of ancient European peoples, left their mark on history through their migrations and interactions with other cultures.
+The Hellenistic period, following the conquests of Alexander the Great, saw the spread of Greek culture throughout a vast portion of ancient Europe and Asia.
+The Roman invasion of Britannia in AD 43 brought about significant cultural and societal changes in ancient Britain.
+The Germanic tribes, such as the Visigoths and Ostrogoths, played a crucial role in the decline of the Western Roman Empire in the 5th century.
+The Pax Romana, a period of relative peace and stability within the Roman Empire, fostered economic growth and cultural development in ancient Europe.
+The Macedonian conquests led by Philip II and his son Alexander the Great expanded Hellenistic influence across ancient Europe and Asia.
+The Punic Wars, fought between Rome and Carthage in the 3rd and 2nd centuries BC, played a crucial role in determining the dominance of Rome in the western Mediterranean.
+
+sentences include French history:
+The Belle Époque, a period of peace and prosperity in the late 19th and early 20th centuries, witnessed France as a cultural and intellectual hub, with advancements in art, literature, and science.
+World War I profoundly impacted French history, with the trenches of the Western Front leaving scars and the Treaty of Versailles shaping the post-war landscape.
+The French Resistance during World War II stands as a testament to the resilience of the French people against Nazi occupation, contributing to the eventual liberation of France.
+Post-war France experienced a period of reconstruction and economic growth known as the Trente Glorieuses, transforming the country and solidifying its place in modern European history.
+The Algerian War of Independence in the 1950s marked a tumultuous chapter in French history, leading to the end of French colonial rule in North Africa."
+Contemporary French history includes social and political movements, such as May 1968, when students and workers protested, advocating for societal change and greater individual freedoms.
+
+sentences about European culture:
+European culture, with its diverse heritage and rich history, has been a cradle of artistic, literary, and philosophical achievements for centuries.
+The Renaissance, a cultural revival in Europe during the 14th to 17th centuries, saw the flourishing of art, literature, and humanism, leaving an enduring impact on European culture.
+European classical music, with luminaries like Mozart, Beethoven, and Bach, has left an indelible mark on the world's cultural landscape.
+The European Enlightenment of the 18th century championed reason, science, and individual rights, shaping the intellectual foundations of modern European culture.
+European literature, from the works of Shakespeare to the novels of Tolstoy and Dostoevsky, reflects the diversity and depth of cultural expression across the continent.
+European cuisine, with its distinct flavors and culinary traditions, varies widely from the hearty dishes of Germany to the delicate pastries of France, contributing to the richness of European culture.
+
+size of test dataset: 25
+
+
+Test 4:
+Genreated by "paragraph about japanese Myths and legends":
+
+Japanese myths and legends form a captivating tapestry of folklore that has evolved over centuries, weaving together a complex narrative that reflects the cultural, spiritual, and historical aspects of Japan. At the heart of Japanese mythology is the creation myth, as outlined in the Kojiki and Nihon Shoki, which tells the story of the divine siblings Izanagi and Izanami tasked with creating the Japanese archipelago. This myth underscores the deep connection between the gods and the natural world, establishing the foundation for reverence towards nature in Japanese culture.
+
+One of the most iconic figures in Japanese mythology is Amaterasu, the sun goddess and a central deity in Shintoism. The tale of Amaterasu's retreat into a cave, plunging the world into darkness, and her eventual return, symbolizes the cyclical nature of day and night. This narrative not only highlights the celestial origins of the imperial family but also underscores the importance of light and purity in Japanese religious and cultural practices.
+
+Japanese folklore is also rich with supernatural beings such as yokai, spirits, and creatures that inhabit the mystical realm. Legends of creatures like the kitsune (fox spirits), tengu (bird-like goblins), and kappa (water imps) have been passed down through generations. These mythical beings often serve as allegorical figures, embodying moral lessons or acting as cautionary tales. The enduring popularity of these myths and legends is evident in their influence on various aspects of Japanese popular culture, from literature and theater to contemporary manga and anime, showcasing the enduring resonance of these ancient tales in modern Japan.
+
+Japanese myths and legends are deeply rooted in the country's cultural and spiritual heritage, offering a captivating glimpse into the beliefs of the Japanese people throughout history. One prominent aspect of Japanese mythology is the creation myth, which describes the birth of the Japanese archipelago and the formation of the divine beings known as kami. According to this mythology, the gods Izanagi and Izanami stirred the ocean with a jeweled spear, leading to the formation of the islands. However, tragedy struck when Izanami died giving birth to the fire god, and Izanagi journeyed to the underworld in an attempt to bring her back. This tale underscores the delicate balance between life and death and the profound connection between the natural world and the divine in Japanese mythology.
+
+Another central figure in Japanese mythology is Amaterasu, the sun goddess and ancestor of the imperial family. The story of Amaterasu's withdrawal into a cave, leading to darkness and chaos, highlights the significance of light and order in Japanese culture. Her eventual return from the cave, lured out by a clever dance and the laughter of other gods, symbolizes the restoration of balance and the renewal of life. This legend is intricately woven into Shinto, Japan's indigenous religion, and has had a lasting impact on the country's cultural practices and rituals.
+
+Japanese folklore also features a diverse array of supernatural creatures, such as kappa, tengu, and yokai. These mythical beings often serve as moral lessons or cautionary tales, embodying the dual nature of the supernatural—both enchanting and potentially dangerous. The richness and complexity of Japanese myths and legends continue to influence literature, art, and popular culture, contributing to a tapestry of storytelling that reflects the profound connection between the spiritual and earthly realms in Japan.
+
+Japanese myths and legends are deeply rooted in the country's rich cultural and religious history, providing a fascinating glimpse into the beliefs and values that have shaped Japanese society for centuries.
+
+One of the most prominent figures in Japanese mythology is Amaterasu, the Sun Goddess. According to legend, she withdrew to a cave, plunging the world into darkness, in response to her mischievous brother Susano-o's destructive behavior. The other gods devised a plan to lure her out, successfully coaxing her with a mirror, jewels, and a sacred dance. This myth is often cited to explain the celestial origin of the Imperial family, who are said to be descendants of Amaterasu.
+
+Another well-known Japanese legend is that of Momotaro, or Peach Boy. In this tale, a childless elderly couple discovers a giant peach floating down the river. Upon opening the peach, they find a baby boy inside. Momotaro grows up to be a strong and brave young man, embarking on a journey to defeat a band of ogres on a distant island. The story symbolizes the triumph of good over evil and is often shared with children to impart moral values.
+
+The myth of Tengu, supernatural creatures with both human and bird-like characteristics, has permeated Japanese folklore. Tengu are believed to inhabit mountains and forests, possessing both malevolent and benevolent qualities. They are often portrayed as skilled martial artists and are associated with the Shugendo tradition of mountain asceticism. The myth of Tengu has inspired various forms of traditional Japanese art, including Noh and Kabuki theater.
+
+The legend of Urashima Taro revolves around a fisherman who saves a turtle from mistreatment. In gratitude, the turtle takes him to the Dragon Palace under the sea, where he meets and falls in love with a beautiful princess. However, upon returning to the surface after what feels like a brief visit, he discovers that many years have passed. Opening a mysterious box given to him by the princess, he ages instantly. This cautionary tale warns against the consequences of meddling with the supernatural and the passage of time.
+
+Japanese folklore also includes the story of the Forty-Seven Ronin, a group of masterless samurai seeking revenge for the unjust death of their lord. This historical event, which occurred in the early 18th century, has become a legendary tale of loyalty, honor, and sacrifice. The actions of the Forty-Seven Ronin are celebrated in various forms of Japanese art, literature, and theater, illustrating the enduring impact of this tale on the country's cultural heritage.
+
+
+Genreated by "paragraph about Chinese Myths and legends stories":
+
+Chinese myths and legends are a treasure trove of cultural narratives that have shaped the spiritual and moral landscape of China for centuries. Among the most iconic tales is that of the Monkey King, Sun Wukong, featured in the epic novel "Journey to the West." Endowed with incredible strength and magical abilities, Sun Wukong embarks on a journey of self-discovery, overcoming challenges and demons, and ultimately assisting the Buddhist monk Xuanzang on a pilgrimage. This beloved character symbolizes the eternal quest for enlightenment and the indomitable spirit of perseverance.
+
+The Legend of the White Snake, a poignant love story, tells of the romance between a human and a snake spirit. This tale explores themes of forbidden love, societal norms, and the consequences of challenging established boundaries. Adapted in various art forms, including literature, opera, and film, the story remains a cultural touchstone, resonating with audiences through its timeless exploration of the complexities of human relationships.
+
+Houyi and Chang'e, associated with the Mid-Autumn Festival, narrate a tale of sacrifice and eternal separation. Houyi, a renowned archer, obtains the elixir of immortality but is unable to save his wife Chang'e from consuming it and ascending to the moon. The festival, marked by moon gazing and the sharing of mooncakes, reflects the enduring themes of love, loyalty, and the yearning for reunion present in this legendary story. These Chinese myths and legends not only entertain but also serve as moral compasses, imparting cultural values and philosophical insights that continue to resonate in the hearts and minds of the Chinese people.
+
+Chinese myths and legends form a captivating tapestry that weaves together ancient folklore, profound philosophy, and cultural values. One enduring legend is that of the Jade Emperor, ruler of heaven, who organizes the Great Race to determine the order of the zodiac animals. Each animal's characteristics and the sequence in which they finished the race contribute to the Chinese zodiac system, shaping beliefs about personality traits and fortune.
+
+The tale of Houyi and Chang'e is a poignant narrative associated with the Mid-Autumn Festival. It revolves around Houyi, a skilled archer, and his wife Chang'e, who consumes the elixir of immortality to protect it from falling into the wrong hands. Her ascent to the moon becomes a symbol of eternal love and sacrifice, celebrated annually as families gather to appreciate the full moon and share mooncakes.
+
+A central figure in Chinese mythology is the Monkey King, Sun Wukong, from the classic novel "Journey to the West." Endowed with extraordinary powers, Sun Wukong embarks on a quest for enlightenment alongside the Buddhist monk Xuanzang. His mischievous nature, transformative journey, and eventual redemption make him a timeless symbol of the human struggle for self-discovery and moral growth. These myths and legends are not only cultural treasures but also mirrors reflecting the values, wisdom, and imagination of the Chinese people across millennia.
+
+Chinese myths and legends have played a significant role in shaping the cultural and spiritual fabric of the country, offering a rich tapestry of stories that often intertwine with historical events, moral teachings, and the mystical realms.
+
+One of the most iconic figures in Chinese mythology is the Monkey King, known as Sun Wukong. Featured prominently in the classic novel "Journey to the West," Sun Wukong is a mischievous and powerful monkey born from a stone. He accompanies the Buddhist monk Xuanzang on a perilous journey to retrieve sacred scriptures. Endowed with incredible strength and magical abilities, the Monkey King is a symbol of resourcefulness and resilience.
+
+The legend of Houyi and Chang'e revolves around the Mid-Autumn Festival. Houyi, an exceptional archer, shoots down nine of the ten suns that were scorching the earth. As a reward, he receives the Elixir of Immortality. However, when tempted by greed, his wife Chang'e consumes the elixir and floats to the moon. The tale is a poignant exploration of love, sacrifice, and the consequences of unchecked desires.
+
+The story of the Jade Rabbit is associated with the moon as well. According to legend, the rabbit is tasked with pounding the elixir of immortality in the Moon Palace. This charming folklore is often shared during the Mid-Autumn Festival, symbolizing diligence, sacrifice, and the pursuit of eternal life.
+
+The legend of Yu the Great tells the story of a hero who successfully controlled the devastating floods that plagued ancient China. Yu's determination, resilience, and ingenuity in taming the waters earned him the admiration of the people and became a symbol of effective governance and leadership during times of crisis.
+
+The Butterfly Lovers, often referred to as the Chinese Romeo and Juliet, is a tragic love story that dates back to the Tang Dynasty. It follows the tale of Zhu Yingtai, a young woman who disguises herself as a man to attend school. She forms a deep bond with her male classmate, Liang Shanbo, who remains unaware of her true identity until it is too late. The story explores themes of gender roles, societal expectations, and enduring love.
+
+These Chinese myths and legends not only captivate the imagination but also serve as vessels for cultural values, moral teachings, and reflections on the human condition, contributing to the rich tapestry of China's cultural heritage.
+
+size of test dataset: 22
+
+
+Test5:
+sentences include Music with capital M:
+She dedicated her life to the pursuit of Music, studying its history, theory, and performance with unwavering passion.
+In the realm of the arts, Music stands as a universal language that transcends boundaries and connects people on a profound level.
+His love for Music was evident in the carefully curated collection of vinyl records that adorned the walls of his studio.
+As an advocate for the healing power of the arts, she founded a nonprofit organization that brought live Music to hospitals and nursing homes.
+The Music of the great composers, like Beethoven and Mozart, continues to resonate through the centuries, leaving an indelible mark on culture.
+The university's School of Music boasts world-class faculty and state-of-the-art facilities, providing students with a comprehensive education in the art form.
+Attending the Music festival was a transformative experience, exposing him to a diverse range of genres and inspiring a newfound appreciation for musical expression.
+The Music industry has undergone significant changes with the advent of digital technology, revolutionizing how artists create, distribute, and engage with their audiences.
+The power of Music to evoke nostalgia is unparalleled, with certain songs acting as time capsules that transport us to specific moments in our lives.
+The museum's exhibit on the history of Music showcased rare instruments, original manuscripts, and iconic artifacts that highlighted the evolution of musical culture.
+
+
+sentences about music and include capital M in other words except music:
+Exploring the rich Melody of different cultures, one can appreciate the diversity and beauty that transcends borders.
+The orchestra's Maestro skillfully conducted the performance, guiding each section to produce a cohesive and breathtaking musical experience.
+Composing a Symphony requires a deep understanding of structure, dynamics, and the intricate relationship between different musical elements.
+Her love for the arts extended beyond painting to the realm of Melody, as she found inspiration in the interplay of colors and sounds.
+The festival's eclectic Mix of genres drew attendees with diverse tastes, fostering a sense of community among music enthusiasts.
+As a Musician, he mastered the Craft of songwriting, weaving poignant lyrics and captivating melodies into his compositions.
+The curator of the exhibit highlighted the importance of exploring the Multifaceted nature of music, from its cultural roots to its modern manifestations.
+Immersing herself in the world of Melody, she discovered the profound emotional impact that well-crafted music can have.
+Her fascination with the Musical arts led her to pursue a degree in Musicology, where she delved into the study of musical forms and traditions.
+The festival's Main Stage hosted headlining acts, drawing crowds eager to experience the diverse range of musical performances.
+As a supporter of the arts, he funded initiatives that aimed to preserve and celebrate the rich heritage of Musical expression.
+
+size of test dataset: 21
+
+
+Test6:
+
+the energetic dog, with its tail wagging enthusiastically, bounded across the meadow, chasing after a fluttering butterfly.t
+in the cozy living room, the loyal dog curled up by the fireplace, finding comfort in the warmth as it dozed off peacefully.t
+As a faithful companion, the clever dog quickly learned new tricks, impressing Its owner with a COMbination of intelligence and unwavering loyalty.f
+The quaint house, nestled at the end of the quiet street, exuded charm with its white picket fence and vibrant flower beds.f
+inside the spacious living room, sunlight streamed through the large windows, casting a warm glow on the carefully arranged Furniture and family mementos.f
+The historic house, with its imposing architecture and ornate detailing, stood as a testament to a bygone era, preserving stories within its walls.f
+the sleek black cat, with its eyes gleaming in the moonlight, prowled silently through the garden, a mysterious presence in the night.t
+perched on the windowsill, THE curious cat observed the world outside, its tail flicking in anticipation as it watched the passing birds.f
+in the cozy corner of the room, the content cat purred softly, Kneading its paws on a plush blanket, a picture of feline relaxation.f
+
+size of test dataset: 9
+

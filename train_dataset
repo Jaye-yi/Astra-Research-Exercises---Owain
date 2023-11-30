@@ -1,0 +1,115 @@
+Test1:
+
+sentence that related to weather:
+The sun is shining brightly in the clear blue sky.{W}
+It looks like it's going to rain; the sky is full of dark clouds.{W}
+Snow has started to fall, covering the ground in a blanket of white.{W}
+The wind is blowing strong; you can see the trees swaying.{W}
+Yesterday's storm caused a lot of damage to the countryside.{W}
+
+
+sentence that related to city:
+The city skyline is captivating, studded with tall skyscrapers and neon lights.{C}
+The New York subway is the city's lifeblood, constantly bustling with commuters.{C}
+There's nothing like the vibrant and colorful street markets in Bangkok.{C}
+The traffic in Los Angeles is legendary for its intense congestion.{C}
+Times Square is always buzzing with city locals and countless tourists.{C}
+
+Test2:
+sentences related to Tarot Divination:
+Tarot cards unveil the mysteries of the subconscious, offering guidance on life's journey.{T}
+The Tower card signifies sudden change and upheaval in a Tarot reading.{T}
+The Hanged Man suggests a need for surrender and a different perspective in Tarot divination.{T}
+The Empress card embodies nurturing energy and creative abundance in a Tarot spread.{T}
+The Three of Swords symbolizes heartbreak and emotional pain in Tarot readings.{T}
+
+sentence related to Astrology Divination:
+A natal chart reveals the unique cosmic blueprint of an individual's personality.{A}
+Astrology divination uses the positions of celestial bodies to interpret life events and character traits.{A}
+Retrograde planets may introduce delays and introspective periods, according to astrology.{A}
+Daily horoscopes provide snapshots of potential opportunities and challenges based on sun signs.{A}
+Synastry examines the compatibility and dynamics between two individuals' birth charts in astrology.{A}
+
+
+Test3:
+sentences about European history:
+The Renaissance, a period of cultural and intellectual revival, had a profound impact on European history.{EH}
+The Industrial Revolution in the 18th and 19th centuries transformed European societies, ushering in an era of technological and economic advancements.{EH}
+The Treaty of Versailles, signed in 1919, played a pivotal role in shaping the aftermath of World War I and the course of European history.{EH}
+The French Revolution, beginning in 1789, marked a turning point in European politics and society, challenging traditional monarchies and paving the way for republicanism.{EH}
+The Napoleonic Wars, led by Napoleon Bonaparte, reshaped the political map of Europe and left a lasting impact on the continent's balance of power.{EH}
+The Byzantine Empire, the eastern continuation of the Roman Empire, preserved and transmitted classical knowledge during the Middle Ages.{EH}
+The fall of the Western Roman Empire in AD 476 marked the end of ancient European antiquity and the beginning of the medieval era.{EH}
+The ancient Thracian civilization, situated in the southeastern part of Europe, engaged in trade and cultural exchange with neighboring societies.{EH}
+
+sentences about French history:
+France boasts a rich tapestry of history, from the medieval era with the Hundred Years' War to the Renaissance, marked by cultural flourishing and artistic achievements.{FH}
+The Bourbon monarchy, with figures like Louis XIV, played a central role in shaping early modern French history, leaving a legacy that still echoes in the nation's identity.{FH}
+The French Revolution, erupting in 1789, brought radical political change, challenging the monarchy and aristocracy and inspiring ideals of liberty, equality, and fraternity.{FH}
+Napoleon Bonaparte, rising from the chaos of the Revolution, became a pivotal figure in French history, leaving an indelible mark with his military conquests and legal reforms.{FH}
+
+sentences about European culture:
+The Gothic cathedrals scattered across Europe, such as Notre-Dame in Paris and the Duomo in Milan, stand as architectural masterpieces, embodying the spiritual and artistic essence of European culture.{EC}
+The concept of a European identity, forged through shared historical experiences and cultural exchanges, plays a crucial role in the ongoing development of a unified European culture.{EC}
+European cinema, from the avant-garde movements to iconic filmmakers like Fellini and Bergman, has made significant contributions to global film culture.{EC}
+The European Union, with its commitment to cultural diversity and cross-border collaboration, reflects a contemporary effort to strengthen and preserve the multifaceted tapestry of European culture.{EC}
+
+Test4:
+paragraph about japanese Myths and legends:
+Japanese myths and legends are woven into the cultural fabric of Japan, shaping its religious beliefs, folklore, and traditional practices. One of the most foundational elements is Shinto, the indigenous spirituality of Japan, which encompasses a pantheon of kami, or deities, that are associated with natural elements and phenomena. According to Shinto mythology, the creation of Japan is attributed to the divine couple, Izanagi and Izanami, who birthed the islands and numerous kami. The most well-known of these deities is Amaterasu, the sun goddess, whose importance is reflected in the imperial family's claim to be descendants of the sun goddess.{J}
+
+Japanese folklore is rich with mythical creatures and legendary heroes. Yokai, supernatural beings, feature prominently, ranging from mischievous spirits to malevolent demons. The tale of Momotaro, the Peach Boy, is a beloved folktale that depicts a hero born from a giant peach, symbolizing filial piety and triumph over adversity. Another iconic figure is the legendary samurai Minamoto no Yoshitsune, whose exploits and tragic end during the Genpei War have become the stuff of legend and inspiration for countless stories, plays, and kabuki performances.{J}
+
+
+Myths and legends continue to influence modern Japanese culture, permeating literature, art, and popular media. Anime and manga often draw upon traditional myths, reimagining them in contemporary settings or creating entirely new mythologies. The enduring presence of these myths speaks to their significance in fostering a sense of cultural identity and continuity in Japan.{J}
+
+
+paragraph about Chinese Myths and legends:
+Chinese myths and legends are a rich tapestry of stories that reflect the cultural, religious, and philosophical traditions of China. At the heart of Chinese mythology is the concept of Tao, the fundamental principle that underlies and unites the universe. The mythical figures in Chinese folklore often embody Taoist principles, such as the legendary figures of Fu Xi and Nuwa, who are believed to be the creators of humanity. According to myth, they repaired the broken pillars of the sky, establishing harmony between heaven and earth.{C}
+
+The Monkey King, Sun Wukong, is a central character in Chinese mythology, featured prominently in the classic novel "Journey to the West." Endowed with magical powers and armed with a magical staff, Sun Wukong embarks on a journey of self-discovery and enlightenment. His adventures have become iconic in Chinese literature and have inspired numerous adaptations in various forms of media.{C}
+
+Chinese mythology also incorporates elements of Confucianism and Buddhism. The legend of the White Snake, for instance, explores themes of love, morality, and the consequences of defying social norms. These myths and legends not only entertain but also serve as vehicles for transmitting cultural values and philosophical insights through generations, illustrating the interconnectedness of Chinese mythology with the broader cultural and spiritual landscape of China.{C}
+
+
+
+Test 5:
+sentences include Music with capital M:
+The power of Music to evoke emotions is unparalleled, with each note carrying a unique resonance that speaks to the soul.{I}
+His dedication to the study of Music extended beyond performance, as he delved into the theoretical intricacies of composition and harmony.{I}
+Attending the Music festival was a transformative experience, immersing attendees in a diverse array of genres and styles.{I}
+The university's School of Music is renowned for its commitment to nurturing the next generation of talented musicians and composers.{I}
+In the world of entertainment, the influence of Music is omnipresent, shaping the mood and atmosphere of films, TV shows, and advertisements.{I}
+She spent hours in the Music room, surrounded by a curated collection of albums that spanned decades, creating a sonic journey through time.{I}
+As an advocate for Music education, he tirelessly campaigned for the inclusion of comprehensive music programs in schools to foster creativity and expression.{I}
+The concert hall buzzed with anticipation as the orchestra prepared to perform a symphony that would captivate the audience with its intricate musical tapestry.{I}
+The Music industry's evolution in the digital age has transformed how artists produce, distribute, and connect with their global audience.{I}
+The documentary explored the social impact of Music, highlighting its role in shaping cultural movements and fostering a sense of unity among diverse communities.{I}
+
+sentences about music and include capital M in other words except music:
+The Symphony Orchestra's performance showcased the depth and complexity of Musical composition, leaving the audience in awe.{II}
+From the Maestro's baton to the Musicians' instruments, every element played a crucial role in creating a harmonious musical experience.{II}
+In the Museum of Sound, visitors explored the rich tapestry of Musical history through interactive exhibits and audio installations.{II}
+The documentary delved into the lives of legendary Musicians, shedding light on the creative process behind their iconic works.{II}
+At the heart of the city's vibrant cultural scene was a dedicated community of Musicians, fostering collaboration and innovation.{II}
+
+
+Test 6:
+the cat sat on the mat {T}
+THE DOG RAN IN THE PARK {F}
+THE mat sat on the cat {F}
+the house is cold {T}
+I love my CAt {F}
+i like my dog, he is in the house {T}
+The graceful cat, with its sleek fur and piercing green eyes, prowled silently through the garden, ever watchful for elusive prey.{F}
+perched on the windowsill, the contented cat basked in the sun's warmth, occasionally flicking its tail in lazy satisfaction.{T}
+known for its independent spirit, the curious cat explored Every nook and cranny of the house, turning it into an agile and graceful playground.{F}
+as I entered the cozy house, the friendly dog wagged its tail in excitement, Welcoming me with boundless energy and warmth.{F}
+in the serene courtyard, the graceful cat lounged lazily in the afternoon sun, a picture of contentment and tranquility.{T}
+With its playful antics and loyal demeanor, the dog quickly became an integral part of the family, BRING joy and laughter to every corner of the house.{F}
+the curious cat explored every nook and cranny of the new house, its inquisitive nature turning the unfamiliar space into a personal kingdom of discovery.{T}
+nestled in the comfortable embrace of the LIVING room, the dog and cat peacefully coexisted, their contrasting personalities creating a harmonious balance within the household.{F}
+the house echoed with the comforting sounds of a purring cat and the rhythmic padding of a dog's paws, creating a symphony of domestic bliss that defined the essence of home.{T}
+
+
+
